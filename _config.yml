@@ -2,6 +2,7 @@ name: Artbloom
 favicon: null
 layout_spectrum: 0.6691458283457905
 typography_spectrum: 0.8509827232919633
+title: ArtBloom
 cta:
   domain: null
   bucket: null
