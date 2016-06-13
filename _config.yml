@@ -1,0 +1,28 @@
+name: Artbloom
+favicon: null
+layout_spectrum: 0.6691458283457905
+typography_spectrum: 0.8509827232919633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4015632427763194
+  lightness: 0.18591004726476967
+  saturation: 0.848302936879918
+  rhythmicContrast: 0.8482005731202662
+purpose: []
